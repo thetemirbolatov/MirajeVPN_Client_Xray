@@ -83,9 +83,9 @@ MIRAJE VPN — это легкий и быстрый VPN-клиент для Win
 | Версия | Windows 7+ | Размер |
 |--------|------------|--------|
 | Установщик 32-64 bit | [Скачать](https://github.com/thetemirbolatov/MirajeVPN_Client_Xray/releases/download/v1.0.1/MIRAJE_VPN_Setup_32-64_bit.exe) | ~15 MB |
-| Установщик win 7 32-64 bit | [Скачать](#) | ~15 MB |
-| Портативная 32-64 bit | [Скачать](#) | ~12 MB |
-| Портативная win 7 32-64 bit | [Скачать](#) | ~12 MB |
+| Установщик win 7 32-64 bit | [Скачать](https://github.com/thetemirbolatov/MirajeVPN_Client_Xray/releases/download/v1.0.1/MIRAJE_VPN_Setup_win7_32-64_bit.exe) | ~15 MB |
+| Портативная 32-64 bit | [Скачать](https://github.com/thetemirbolatov/MirajeVPN_Client_Xray/releases/download/v1.0.1/portable_32-64_bit.rar) | ~12 MB |
+| Портативная win 7 32-64 bit | [Скачать](https://github.com/thetemirbolatov/MirajeVPN_Client_Xray/releases/download/v1.0.1/portable_win7_32-64_bit.rar) | ~12 MB |
 
 ##  Установка
 
