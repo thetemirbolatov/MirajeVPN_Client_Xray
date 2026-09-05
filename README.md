@@ -7,6 +7,8 @@
 ![Architecture](https://img.shields.io/badge/arch-32%2F64--bit-orange)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
 
+![MIRAJE VPN](de.png)
+
 ##  Описание
 
 MIRAJE VPN — это легкий и быстрый VPN-клиент для Windows с поддержкой умной маршрутизации трафика. Приложение автоматически определяет российские ресурсы и направляет их напрямую, обеспечивая максимальную скорость для локальных сервисов и безопасное соединение для зарубежных.
