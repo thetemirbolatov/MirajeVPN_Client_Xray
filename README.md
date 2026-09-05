@@ -78,7 +78,7 @@ MIRAJE VPN — это легкий и быстрый VPN-клиент для Win
 
 ##  Загрузка
 
-### Текущая версия: 1.0.0
+### Текущая версия: 1.0.1
 
 | Версия | Windows 7+ | Размер |
 |--------|------------|--------|
@@ -123,7 +123,7 @@ MIRAJE VPN — это легкий и быстрый VPN-клиент для Win
 
 ##  Автор
 
-**MIRAJE X**
+**thetemirbolatov**
 
 - Telegram: [@thetemirbolatov](https://t.me/thetemirbolatov)
 - GitHub: [github.com/thetemirbolatov](https://github.com/thetemirbolatov)
